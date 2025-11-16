@@ -24,6 +24,7 @@ The income analysis section should focus on salary-related metrics, including:
 
 ### HR Dashboard screenshot
 
+<img width="1440" height="900" alt="HR dashboard Screenshot" src="https://github.com/user-attachments/assets/2ab23454-f99d-4cd9-a002-9ffb5f6c6e7a" />
 
 
 ## 2. Employee Records View
@@ -32,7 +33,12 @@ The income analysis section should focus on salary-related metrics, including:
 
 ### Employee Records Dashboard screenshot
 
+<img width="1440" height="900" alt="HR detail screenshot" src="https://github.com/user-attachments/assets/c4ce91a5-9cbf-4adf-a10c-574e9f0ecc07" />
 
 ## 3. Project record video
+
+https://github.com/user-attachments/assets/b8d31781-bf5b-4b52-ba94-49844b96e0bc
+
+
 
 
